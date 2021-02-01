@@ -11,3 +11,6 @@ Trying out new functions such as
 * list item 3
 
 ![](Singapore.jpg)
+
+![](Merlion.jpg)
+
